@@ -19,7 +19,7 @@ class ProfileSeeder extends Seeder
             'email' => 'nicolas.alvarez02@alumnos.ucn.cl',
             'city' => 'Antofagasta',
             'country' => 'Chile',
-            'summary' => 'lorem ipsum',
+            'summary' => 'Estudio ingeniería civil informática en la Universidad católica del Norte.',
         ]);
     }
 }

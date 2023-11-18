@@ -18,7 +18,7 @@ class ProfileController extends Controller
                 'lastname'   => $profile->lastname,
                 'email'      => $profile->email,
                 'city'       => $profile->city,
-                'country'    => $profile->city,
+                'country'    => $profile->country,
                 'summary'    => $profile->summary,
                 'frameworks' => $profile->frameworks,
                 'hobbies'    => $profile->hobbies
