@@ -14,7 +14,7 @@ Esta es mi segunda práctica para la asignatura, en este archivo están los paso
 
 - Ejecutar  ``` copy .env.example .env ```
 
-Dentro de este archivo configurar el puerto, nombre, usuario y contraseña de la bse de datos.
+Dentro de este archivo configurar el puerto, nombre, usuario y contraseña de la base de datos.
 
 ### Ejecutar los siguientes comandos para levantar el backend:
 
